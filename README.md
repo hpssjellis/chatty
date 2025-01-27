@@ -2,6 +2,8 @@ making SPA's by jeremy ellis
 
 Started Jan 27th, 2025
 
+The demo shutdown when wifi was shutoff.
+
 
 
 <div align="center">
